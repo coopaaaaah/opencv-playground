@@ -1,0 +1,3 @@
+## OPENCV-PLAYGROUND 
+
+- python 3.6
